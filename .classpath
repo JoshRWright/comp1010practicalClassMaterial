@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="week 02 - javaEclipse/solutionCodes"/>
+	<classpathentry kind="src" path="week 08 - lists 1/codes"/>
+	<classpathentry kind="src" path="week 09 - lists 2/codes"/>
+	<classpathentry kind="src" path="week 10 - custom-built arraylist/codes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
